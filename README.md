@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoyalBlackness
 - 👀 I’m interested in anything python
-- 🌱 I’m currently learning how to python
+- 🌱 I’m currently learning how to program in python
 - 💞️ I’m looking to collaborate on creating webapps with python
 - 📫 How to reach me adjan2730@gmail.com
 
